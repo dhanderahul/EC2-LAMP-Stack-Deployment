@@ -414,5 +414,3 @@ This project shows how to set up a simple web app on an EC2 Linux server using A
 ## ✅ Conclusion
 
 This project shows how to launch an EC2 server, set up Apache and MySQL, and run a PHP web app with a connected database.
-
-# EC2-LAMP-Stack-Deployment
